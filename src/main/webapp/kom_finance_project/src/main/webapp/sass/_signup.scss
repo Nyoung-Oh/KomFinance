@@ -1,0 +1,23 @@
+/*---------------------
+  Sign Up
+-----------------------*/
+.signup {
+  padding-top: 130px;
+  padding-bottom: 150px;
+
+  .login__form {
+
+ 
+      h5 {
+        font-size: 15px;
+        color: $white-color;
+        margin-top: 36px;
+
+        a {
+          color: $primary-color;
+          font-weight: 700;
+        }
+      }
+  }
+
+}
